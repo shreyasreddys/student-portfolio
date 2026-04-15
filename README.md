@@ -1,1 +1,2 @@
-hi from Branch 1 and Branch 2
+Updated directly on GitHub
+
