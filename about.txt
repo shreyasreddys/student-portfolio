@@ -1,2 +1,3 @@
 About Me 
+my name is shreyas reddy 
 "I am learning Git step by step" 
