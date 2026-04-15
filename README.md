@@ -1,1 +1,1 @@
-"hi from branch1"
+hi from Branch 1 and Branch 2
