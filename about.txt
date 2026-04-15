@@ -1,1 +1,2 @@
 About Me 
+"I am learning Git step by step" 
